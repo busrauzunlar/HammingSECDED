@@ -31,7 +31,7 @@ This is a C# Windows Forms application that simulates Hamming SEC-DED (Single Er
 
 You can watch the demo of this project on YouTube:
 
-[▶️ Watch the video here](https://www.youtube.com/watch?azOLMMzpnjs)
+[▶️ Watch the video here]([https://youtu.be/azOLMMzpnjs])
 
 
 ## 🛠 How to Run
