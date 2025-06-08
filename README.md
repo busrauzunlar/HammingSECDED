@@ -12,13 +12,13 @@ This is a C# Windows Forms application that simulates Hamming SEC-DED (Single Er
 
 ## 📁 Project Structure
 
-📁 Busra_Uzunlar_Mimari_Proje
-├── anaMenu.cs // Main form and UI logic
-├── Program.cs // Entry point
-├── Busra_Uzunlar_Mimari_Proje.csproj
-├── Classes/
-│ ├── hammingCoder.cs // Hamming encode/decode logic
-│ └── memory.cs // Simulated memory operations
+📁 Busra_Uzunlar_Mimari_Proje  
+├── anaMenu.cs // Main form and UI logic  
+├── Program.cs // Entry point  
+├── Busra_Uzunlar_Mimari_Proje.csproj  
+├── Classes/  
+│ ├── hammingCoder.cs // Hamming encode/decode logic  
+│ └── memory.cs // Simulated memory operations  
 
 
 ## 🧠 Components
