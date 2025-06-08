@@ -1,0 +1,16 @@
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\bin\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.exe
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\bin\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.deps.json
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\bin\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.runtimeconfig.json
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\bin\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.dll
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\bin\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.pdb
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.csproj.GenerateResource.cache
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.AssemblyInfoInputs.cache
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.AssemblyInfo.cs
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.dll
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\refint\Busra_Uzunlar_Mimari_Proje.dll
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.pdb
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.genruntimeconfig.cache
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\ref\Busra_Uzunlar_Mimari_Proje.dll
+C:\Users\BÜŞRA\Desktop\Busra_Uzunlar_Mimari_Proje\obj\Debug\net8.0-windows\Busra_Uzunlar_Mimari_Proje.anaMenu.resources
