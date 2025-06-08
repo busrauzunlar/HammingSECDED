@@ -29,9 +29,9 @@ This is a C# Windows Forms application that simulates Hamming SEC-DED (Single Er
 
 ## 🎥 Demo Video
 
-Watch a short demo on YouTube:
+You can watch the demo of this project on YouTube:
 
-👉 [Watch the video]([https://www.youtube.com/watch?v=azOLMMzpnjs])
+[▶️ Watch the video here](https://www.youtube.com/watch?azOLMMzpnjs)
 
 
 ## 🛠 How to Run
